@@ -1,6 +1,6 @@
 <script>
     import { Head } from '@inertiajs/svelte';
-    import Layout from '@/Layouts/AuthenticatedLayout.svelte';
+    import Layout from '@/Layouts/AuthenticatedLayout.vue';
     import Chat from '@/Components/Chat.svelte';
     import FriendsList from '@/Components/FriendsList.svelte';
     
